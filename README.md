@@ -1,2 +1,4 @@
 # InstanciadorRelembrar
-Instanciador para ontologia Relembrar desenvolvido em Python + Owlready2
+
+Este repositório se destina a aplicação Instanciador Relembrar. A aplicação consiste em um criador de instâncias para ontologia Relembrar desenvolvido em Python e Owlready2. 
+
